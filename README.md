@@ -61,8 +61,8 @@ saas-ticket-simulation/
 ├── customer_responses/
 │ └── zendesk_customer_reply_01.md # Optional reply template
 │
-├── screenshots/
-│ └── zendesk_ui_mockup.png # Sample Zendesk-style UI
+├── screenshots/ # UI preview images
+│ └── zendesk_ui_mockup.png
 │
 └── README.md # Project overview + documentation
 
