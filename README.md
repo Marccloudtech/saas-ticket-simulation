@@ -74,6 +74,21 @@ saas-ticket-simulation/
 
 ---
 
+## 🧠 Bonus Experience
+
+Before transitioning into SaaS support, I completed training at **Virgin Mobile** in a traditional phone-based tech support environment.
+
+- Handled real customer calls under live pressure  
+- Took internal notes manually (no AI assist)  
+- Practiced calm, clear communication with frustrated customers  
+- Was praised by supervisors for empathy and listening skills
+
+This early exposure gave me a deep respect for service — today, I combine that real-world foundation with modern tools like Zendesk, ChatGPT, and bilingual workflows to deliver thoughtful, efficient support in any environment.
+
+
+---
+
+
 ## 🔄 Lessons Learned / Reflection
 
 - Simulating customer support helps build confidence under real-world pressure  
