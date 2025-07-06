@@ -1,3 +1,6 @@
+🇬🇧 [English version available here](./README.md)
+
+
 # 🧪 Simulation de Ticket SaaS – Scénario de Support Zendesk
 
 Ce projet simule un ticket de support client SaaS, comme s’il était traité via Zendesk. Il comprend :
