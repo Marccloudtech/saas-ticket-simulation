@@ -51,27 +51,28 @@ See folder: `customer_responses/zendesk_customer_reply_01.md`
 ## 📁 Folder Structure
 
 
-
 saas-ticket-simulation/
+├── ticket-001-login-issue.md # Support ticket description (EN/FR)
+├── internal-notes-001.md # Internal tech notes (EN/FR)
+├── customer-response-001.md # Customer reply (EN/FR)
 │
 ├── internal_notes/
-│ └── zendesk_internal_note_01.md
+│ └── zendesk_internal_note_01.md # Optional internal doc template
 ├── customer_responses/
-│ └── zendesk_customer_reply_01.md
+│ └── zendesk_customer_reply_01.md # Optional reply template
+│
 ├── screenshots/
-│ └── zendesk_ui_mockup.png (optional)
-└── README.md
-### 🖼 Sample Zendesk Ticket View
-
+│ └── zendesk_ui_mockup.png # Sample Zendesk-style UI
+│
+└── README.md # Project overview + documentation
 
 ---
 
-## 🖼️ Screenshot Preview
+## 🖼 Sample Zendesk Ticket View
 
-Mockup of a Zendesk-style support interface:
+Here’s a visual mockup of a real-life Zendesk-style ticket interface to give context:
 
 ![Zendesk UI Mockup](screenshots/zendesk_ui_mockup.png)
-
 
 
 ---
@@ -84,6 +85,29 @@ Mockup of a Zendesk-style support interface:
 
 ---
 
+## 🎯 What This Project Demonstrates
+
+- Real-world customer support communication (English + French)
+- Simulated Zendesk-style support ticket handling
+- Internal troubleshooting documentation
+- Professional, bilingual customer-facing replies
+- GitHub project organization and commit hygiene
+
+---
+
+## 💼 Job Readiness Relevance
+
+This simulation is designed to mirror a real-life SaaS customer support role using tools like Zendesk or Intercom.
+
+It demonstrates my ability to:
+- Write clear and empathetic support responses
+- Document technical troubleshooting steps
+- Communicate professionally in both English and French
+- Stay calm under pressure while resolving issues remotely
+
+---
+
+
 ## 🔄 Lessons Learned / Reflection
 
 - Simulating customer support helps build confidence under real-world pressure  
@@ -92,5 +116,14 @@ Mockup of a Zendesk-style support interface:
 
 ---
 
+---
 
+## 🙋‍♂️ About Me
 
+I'm Marc, a bilingual (EN/FR) SaaS support trainee with a background in leadership, holistic care, and customer experience.
+
+I'm open to remote support roles and growing into a long-term position where I can help users, contribute to the team, and continue leveling up.
+
+📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/marc-maisonneuve-6345b6373/)
+
+---
