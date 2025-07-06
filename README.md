@@ -63,10 +63,14 @@ saas-ticket-simulation/
 └── README.md
 ### 🖼 Sample Zendesk Ticket View
 
-![Zendesk UI Screenshot](screenshots/zendesk_ui_mockup.png)
 
+---
 
+## 🖼️ Screenshot Preview
 
+Mockup of a Zendesk-style support interface:
+
+![Zendesk UI Mockup](screenshots/zendesk_ui_mockup.png)
 
 
 
