@@ -73,5 +73,3 @@ saas-ticket-simulation/
 
 ---
 
-## 🗣 Version anglaise disponible ici 🇬🇧  
-→ [README.md](./README.md)
