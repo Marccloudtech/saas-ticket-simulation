@@ -1,20 +1,21 @@
-# 🧾 Support Ticket #001 – Login Issue
+# 🧾 Support Ticket #001 – Login Issue / Problème de Connexion
 
-**Customer Name:** Jane Dupont  
-**Email:** jane.dupont@clientco.io  
-**Date:** July 6, 2025  
-**Priority:** High  
-**Platform:** Web App (Chrome)
+**Customer / Client(e) :** Jane Dupont  
+**Email :** jane.dupont@clientco.io  
+**Date :** July 6, 2025  
+**Priority / Priorité :** High / Élevée  
+**Platform / Plateforme :** Web App (Chrome)
 
 ---
 
-### 📝 Issue Summary:
+##  English – Issue Summary
 
 Jane reported that she’s unable to log into her dashboard despite resetting her password. She receives a "403 Forbidden" error after submitting her credentials.
 
 ---
 
-### 🔍 Customer Message:
+##  Français – Résumé du Problème
 
-> *"I’ve reset my password three times, cleared my cookies, and tried using incognito mode, but I still can’t log in. This is very frustrating — I need access to my reports before 5PM today."*
+Jane a signalé qu’elle ne parvient pas à se connecter à son tableau de bord, même après avoir réinitialisé son mot de passe. Elle reçoit une erreur "403 Forbidden" après avoir soumis ses identifiants.
+
 
