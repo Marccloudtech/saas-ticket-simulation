@@ -72,20 +72,6 @@ saas-ticket-simulation/
 
 ---
 
-## 🧠 Expérience complémentaire
-
-Plus tôt dans ma carrière, j’ai suivi une formation chez **Virgin Mobile** dans un environnement de support technique traditionnel, basé sur des appels téléphoniques.
-
-- Gestion d'appels clients réels en direct, sous pression  
-- Prise de notes internes manuelle (sans assistance IA)  
-- Communication calme et claire avec des clients frustrés  
-- Reconnu par les superviseurs pour mon écoute et mon empathie
-
-Même si cette expérience date de plusieurs années, elle m’a appris l’importance d’un service attentionné. Aujourd’hui, je combine cette base solide avec des outils modernes comme Zendesk, ChatGPT et des workflows bilingues pour offrir un support au client efficace et humain.
-
-
----
-
 ## 🔄 Leçons retenues / Réflexions
 
 - Simuler des tickets de support renforce la confiance et la rigueur  
