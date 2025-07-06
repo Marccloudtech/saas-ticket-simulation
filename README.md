@@ -52,6 +52,9 @@ saas-ticket-simulation/
 ├── screenshots/
 │ └── zendesk_ui_mockup.png (optional)
 └── README.md
+### 🖼 Sample Zendesk Ticket View
+
+![Zendesk UI Screenshot](screenshots/zendesk_ui_mockup.png)
 
 
 
