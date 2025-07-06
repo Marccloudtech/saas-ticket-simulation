@@ -3,6 +3,9 @@
 
 # 🧪 Simulation de Ticket SaaS – Scénario de Support Zendesk
 
+![Compétence Douce](https://img.shields.io/badge/Empathie_Client-Active-blue)
+
+
 Ce projet simule un ticket de support client SaaS, comme s’il était traité via Zendesk. Il comprend :
 
 - Un exemple de **demande client**
