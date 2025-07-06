@@ -9,74 +9,82 @@
 ![Croissance](https://img.shields.io/badge/Apprenant_Rapide-Adaptatif-orange)
 
 
+Ce projet simule un ticket de support SaaS réaliste, géré dans un outil comme Zendesk. Il inclut :
 
-Ce projet simule un ticket de support client SaaS, comme s’il était traité via Zendesk. Il comprend :
-
-- Un exemple de **demande client**
-- Une **note interne** qui décrit comment je résoudrais le problème
-- Une **réponse client** claire et professionnelle
-- Bonus : structure de dossier + capture d’écran illustrative
+- Une **demande client** simulée
+- Une **note interne** décrivant ma démarche de résolution
+- Une **réponse au client** professionnelle
+- Bonus : structure de dossiers et capture d’écran d’interface
 
 ---
 
-## 🎯 Scénario : Réinitialisation de mot de passe échouée avec "Jeton invalide"
+## 🎯 Scénario : Échec de réinitialisation du mot de passe – « Jeton invalide »
 
 **Message du client (via Zendesk) :**  
-> “Bonjour, j’essaie de réinitialiser mon mot de passe, mais le système me dit toujours ‘Jeton invalide’. Pouvez-vous m’aider ?”
+> « Bonjour, j’essaie de réinitialiser mon mot de passe, mais votre système affiche une erreur ‘Jeton invalide’. Pouvez-vous m’aider ? »
 
 ---
 
-## 🧠 Notes internes (à usage interne uniquement)
+## 🧠 Notes internes (réservées à l’équipe)
 
 **Étapes que je suivrais avant de répondre au client :**
 
-1. ✅ Recherche de l’adresse courriel du client dans notre base de données  
-2. 🔍 Vérification de l’expiration du jeton (souvent entre 15–60 minutes)  
-3. 🔁 Si expiré, envoi manuel d’un nouveau lien de réinitialisation  
-4. 🛠 Signalement à l’équipe technique si le problème est récurrent  
-5. 📝 Documentation complète de l’incident en interne
+1. ✅ Rechercher l’adresse courriel du client dans notre base de données  
+2. 🔍 Vérifier si le jeton de réinitialisation est expiré (souvent valide 15 à 60 minutes)  
+3. 🔁 Si expiré, générer un nouveau lien de réinitialisation manuellement  
+4. 🛠 Signaler le bug à l’équipe de développement si le problème est récurrent  
+5. 📝 Documenter chaque étape en interne
 
-Voir le dossier : `internal_notes/zendesk_internal_note_01.md`
+Voir dossier : `internal_notes/zendesk_internal_note_01.md`
 
 ---
 
-## 💬 Réponse destinée au client
+## 💬 Réponse client
 
-**Ton utilisé :** Calme, professionnel, rassurant  
-**Objectif :** Résoudre le problème tout en rassurant le client
+**Ton :** Calme, empathique et professionnel  
+**Objectif :** Rassurer le client et résoudre le problème clairement
 
-Voir le dossier : `customer_responses/zendesk_customer_reply_01.md`
+Voir dossier : `customer_responses/zendesk_customer_reply_01.md`
 
 ---
 
 ## 📁 Structure du projet
 
-saas-ticket-simulation/
-│
-├── internal_notes/
-│ └── zendesk_internal_note_01.md
-├── customer_responses/
-│ └── zendesk_customer_reply_01.md
-├── screenshots/
-│ └── zendesk_ui_mockup.png (optionnel)
-└── README.md
-
-
----
-
-## 🛠 Technologies et outils simulés
-
-- 📨 Zendesk (gestion de tickets)  
-- 🗂 Documentation interne (style Notion)  
-- 🧠 Compétences douces : calme, clarté, empathie, pensée structurée  
+saas-ticket-simulation/  
+│  
+├── internal_notes/  
+│   └── zendesk_internal_note_01.md  
+├── customer_responses/  
+│   └── zendesk_customer_reply_01.md  
+├── screenshots/  
+│   └── zendesk_ui_mockup.png (optionnel)  
+└── README.fr.md
 
 ---
 
-## 🔄 Leçons retenues / Réflexions
+## 🖼 Aperçu de l’interface Zendesk
 
-- Simuler des tickets de support renforce la confiance et la rigueur  
-- Écrire des notes internes claires pour évite les malentendus entre équipes  
-- Les clients attendent une solution — mais aussi d’être compris
+![Capture d’écran de l’interface Zendesk](screenshots/zendesk_ui_mockup.png)
 
 ---
 
+## 🛠 Technologies simulées
+
+- 📨 Zendesk (outil de gestion de tickets)
+- 🗂 Documentation interne (type Notion)
+- 🧠 Compétences humaines : écoute active, clarté, empathie, logique structurée
+
+![Compétences humaines](https://img.shields.io/badge/Empathie_Client-Active-blue)
+
+---
+
+## 🔄 Leçon tirée / Réflexion
+
+- Simuler un environnement de support aide à bâtir la confiance en soi face à des situations réelles  
+- Des notes internes claires évitent les malentendus lors du relais entre membres d’équipe  
+- Les clients ne veulent pas seulement une solution — ils veulent être écoutés et guidés avec soin
+
+---
+
+## 🇫🇷 Version anglaise disponible ici :  
+👉 [README.md](./README.md)
