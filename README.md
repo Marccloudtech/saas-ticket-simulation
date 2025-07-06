@@ -1,3 +1,6 @@
+🇫🇷 [Version française disponible ici](./README.fr.md)
+
+
 # 🧪 SaaS Ticket Simulation – Zendesk-style Support Scenario
 
 This project simulates a real-life SaaS support ticket handled through a tool like Zendesk. It includes:
@@ -79,6 +82,5 @@ saas-ticket-simulation/
 
 ---
 
-## 🗣 French Version Available Upon Request 🇫🇷
 
 
