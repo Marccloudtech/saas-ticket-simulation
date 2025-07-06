@@ -3,7 +3,10 @@
 
 # 🧪 SaaS Ticket Simulation – Zendesk-style Support Scenario
 
-![Soft Skills](https://img.shields.io/badge/Client_Empathy-Active-blue)
+![Empathy](https://img.shields.io/badge/Client_Empathy-Active-blue)
+![Communication](https://img.shields.io/badge/Calm_Communicator-Yes-brightgreen)
+![Language](https://img.shields.io/badge/Bilingual-EN/FR-yellow)
+![Growth](https://img.shields.io/badge/Fast_Learner-Adaptive-orange)
 
 
 This project simulates a real-life SaaS support ticket handled through a tool like Zendesk. It includes:
