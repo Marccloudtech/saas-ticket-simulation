@@ -9,31 +9,23 @@
 ![Croissance](https://img.shields.io/badge/Apprenant_Rapide-Adaptatif-orange)
 
 
-Ce projet simule un ticket de support SaaS réaliste, géré dans un outil comme Zendesk. Il inclut :
-
-- Une **demande client** simulée
-- Une **note interne** décrivant ma démarche de résolution
-- Une **réponse au client** professionnelle
-- Bonus : structure de dossiers et capture d’écran d’interface
+Ce projet est une simulation réaliste d’un scénario de support client dans un environnement SaaS. Il inclut un ticket client, des notes techniques internes, une réponse client professionnelle, une capture d’écran d’une interface type Zendesk, et une structure de dossier claire comme dans un vrai poste de support technique.
 
 ---
 
-## 🎯 Scénario : Échec de réinitialisation du mot de passe – « Jeton invalide »
+## 🎯 Objectif du Projet
 
-**Message du client (via Zendesk) :**  
-> « Bonjour, j’essaie de réinitialiser mon mot de passe, mais votre système affiche une erreur ‘Jeton invalide’. Pouvez-vous m’aider ? »
+- Simuler la gestion d’un ticket dans un contexte de support logiciel (SaaS)
+- Documenter le dépannage technique avec des notes internes (en FR/EN)
+- Fournir une réponse claire et empathique au client (en FR/EN)
+- Montrer des compétences prêtes à l’emploi dans un environnement de travail à distance
+- Organiser le tout de manière structurée, comme dans Zendesk, Intercom ou Freshdesk
 
 ---
 
-## 🧠 Notes internes (réservées à l’équipe)
+## 📁 Structure du Répertoire du Projet
 
-**Étapes que je suivrais avant de répondre au client :**
-
-1. ✅ Rechercher l’adresse courriel du client dans notre base de données  
-2. 🔍 Vérifier si le jeton de réinitialisation est expiré (souvent valide 15 à 60 minutes)  
-3. 🔁 Si expiré, générer un nouveau lien de réinitialisation manuellement  
-4. 🛠 Signaler le bug à l’équipe de développement si le problème est récurrent  
-5. 📝 Documenter chaque étape en interne
+Cette simulation reflète la manière dont un technicien de support organise ses dossiers, réponses et documents internes.
 
 Voir dossier : `internal_notes/zendesk_internal_note_01.md`
 
@@ -50,21 +42,40 @@ Voir dossier : `customer_responses/zendesk_customer_reply_01.md`
 
 ## 📁 Structure du projet
 
-saas-ticket-simulation/  
-│  
-├── internal_notes/  
-│   └── zendesk_internal_note_01.md  
-├── customer_responses/  
-│   └── zendesk_customer_reply_01.md  
-├── screenshots/  
-│   └── zendesk_ui_mockup.png (optionnel)  
-└── README.fr.md
+saas-ticket-simulation/
+├── ticket-001-login-issue.md # Description du ticket client (FR/EN)
+├── internal-notes-001.md # Notes internes techniques (FR/EN)
+├── customer-response-001.md # Réponse envoyée au client (FR/EN)
+│
+├── internal_notes/
+│ └── zendesk_internal_note_01.md # Modèle de note interne
+├── customer_responses/
+│ └── zendesk_customer_reply_01.md # Modèle de réponse client
+│
+├── screenshots/ # Capture d’écran de type Zendesk
+│ └── zendesk_ui_mockup.png
+│
+└── README.md # Présentation du projet
 
 ---
 
-## 🖼 Aperçu de l’interface Zendesk
+## 🖼️ Aperçu d’un Ticket Zendesk
 
-![Capture d’écran de l’interface Zendesk](screenshots/zendesk_ui_mockup.png)
+Voici une capture d’écran simulée d’une interface de ticket Zendesk pour mettre en contexte visuel ce projet :
+
+![Aperçu Zendesk](screenshots/zendesk_ui_mockup.png)
+
+---
+
+## 💼 Compétences Démontrées
+
+Ce projet démontre ma capacité à :
+
+- Communiquer clairement avec les clients en français et en anglais
+- Documenter les étapes de dépannage en interne
+- Répondre avec empathie dans un contexte technique
+- Organiser efficacement les tickets et les informations liées
+- Travailler dans un environnement SaaS en télétravail
 
 ---
 
@@ -86,5 +97,15 @@ saas-ticket-simulation/
 
 ---
 
-## 🇫🇷 Version anglaise disponible ici :  
-👉 [README.md](./README.md)
+## 🙋‍♂️ À propos de moi
+
+Je m’appelle Marc, je suis en transition vers un rôle de support technique SaaS à distance. Avec un passé en leadership terrain et accompagnement holistique, j’apporte à la fois une grande capacité humaine et une rigueur opérationnelle.
+
+Je suis ouvert aux **postes de support technique à distance, bilingues FR/EN**, et motivé à apprendre, servir, et évoluer dans ce domaine.
+
+📫 Connectons-nous sur [LinkedIn](https://www.linkedin.com/in/marc-maisonneuve-6345b6373/)
+
+---
+
+
+
