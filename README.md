@@ -115,6 +115,7 @@ It demonstrates my ability to:
 - Customers don’t just want fixes — they want clarity and care  
 
 ---
+📄 [Buyer Persona vs. ICP – Internal Support Note](./buyer-persona-vs-icp.md)
 
 ---
 
