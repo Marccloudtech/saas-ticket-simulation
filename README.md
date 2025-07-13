@@ -119,6 +119,11 @@ It demonstrates my ability to:
 
 ---
 
+📄 Additional Learning Resources
+Buyer Persona vs. ICP – Internal SaaS Support Guide
+
+---
+
 ## 🙋‍♂️ About Me
 
 I'm Marc, a bilingual (EN/FR) SaaS support trainee with a background in leadership, holistic care, and customer experience.
