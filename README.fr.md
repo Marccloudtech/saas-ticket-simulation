@@ -89,6 +89,14 @@ Ce projet démontre ma capacité à :
 
 ---
 
+### 📄 Ressources Supplémentaires
+
+Découvrez comment les équipes SaaS utilisent les Buyer Personas et les ICP pour offrir un support personnalisé et stratégique.
+
+- [Buyer Persona vs. ICP – Guide interne pour le support SaaS (FR)](./buyer-persona-vs-icp-fr.md)
+
+---
+
 ## 🔄 Leçon tirée / Réflexion
 
 - Simuler un environnement de support aide à bâtir la confiance en soi face à des situations réelles  
