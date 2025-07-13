@@ -119,8 +119,12 @@ It demonstrates my ability to:
 
 ---
 
-📄 Additional Learning Resources
-Buyer Persona vs. ICP – Internal SaaS Support Guide
+### 📄 Additional Learning Resources
+
+Explore how SaaS teams define and use Buyer Personas vs. Ideal Customer Profiles (ICP) to guide smarter support and communication.
+
+- [Buyer Persona vs. ICP – Internal SaaS Support Guide](./buyer-persona-vs-icp.md)
+
 
 ---
 
