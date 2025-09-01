@@ -1,4 +1,5 @@
-🇫🇷 [Version française disponible ici](./README.fr.md)
+🌐 Disponible en : [English](README.md) | [Français](README.fr.md)
+
 
 
 # 🧪 SaaS Support Simulation – Preview (ClarityFlow Mastery Portfolio)
@@ -8,6 +9,10 @@
 ![Communication](https://img.shields.io/badge/Calm_Communicator-Yes-brightgreen)
 ![Language](https://img.shields.io/badge/Bilingual-EN/FR-yellow)
 ![Growth](https://img.shields.io/badge/Fast_Learner-Adaptive-orange)
+![Instructional Design](https://img.shields.io/badge/Instructional%20Design-Blue?style=for-the-badge)
+![Bilingual EN/FR](https://img.shields.io/badge/Bilingual-EN%2FFR-Violet?style=for-the-badge)
+![QA & Version Control](https://img.shields.io/badge/QA%20%26%20Version%20Control-Orange?style=for-the-badge)
+
 
 
 This project simulates a real-life SaaS support ticket handled through a tool like Zendesk. It includes:
