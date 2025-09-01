@@ -137,12 +137,13 @@ D’autres simulations et modules structurés seront publiés prochainement dans
 
 ---
 
-## 🛠 Outils simulés
-![Zendesk Simulation](https://img.shields.io/badge/Zendesk-Simul%C3%A9-blue?style=for-the-badge&logo=zendesk)
-![Intercom Simulation](https://img.shields.io/badge/Intercom-Simul%C3%A9-darkblue?style=for-the-badge&logo=intercom)
-![Notion Documentation](https://img.shields.io/badge/Notion-Docs-lightgrey?style=for-the-badge&logo=notion)
-![GitHub Portfolio](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github)
-
-
 ### 📫 Contact  
 [GitHub](https://github.com/Marccloudtech) · [LinkedIn](https://www.linkedin.com/in/marc-maisonneuve-6345b6373/) · **marc.m.saas@gmail.com**
+
+---
+
+## 🛠 Outils simulés  
+![Zendesk Simulation](https://img.shields.io/badge/Zendesk-Simul%C3%A9-blue?style=for-the-badge&logo=zendesk)  
+![Intercom Simulation](https://img.shields.io/badge/Intercom-Simul%C3%A9-darkblue?style=for-the-badge&logo=intercom)  
+![Notion Documentation](https://img.shields.io/badge/Notion-Docs-lightgrey?style=for-the-badge&logo=notion)  
+![GitHub Portfolio](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github)  
