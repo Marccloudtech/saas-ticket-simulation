@@ -1,7 +1,8 @@
 🇫🇷 [Version française disponible ici](./README.fr.md)
 
 
-# 🧪 SaaS Ticket Simulation – Zendesk-style Support Scenario
+# 🧪 SaaS Support Simulation – Preview (ClarityFlow Mastery Portfolio)
+
 
 ![Empathy](https://img.shields.io/badge/Client_Empathy-Active-blue)
 ![Communication](https://img.shields.io/badge/Calm_Communicator-Yes-brightgreen)
@@ -128,11 +129,25 @@ Explore how SaaS teams define and use Buyer Personas vs. Ideal Customer Profiles
 
 ---
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me  
+I'm Marc, a bilingual (EN/FR) **Instructional Designer & Content Creator** specializing in SaaS training systems.  
 
-I'm Marc, a bilingual (EN/FR) SaaS support trainee with a background in leadership, holistic care, and customer experience.
+I build simulations like this one to:  
+- Demonstrate how technical workflows (internal notes, escalations, customer replies) can be turned into **job-ready training materials**.  
+- Showcase **bilingual communication** (English + French) in real support contexts.  
+- Apply **instructional design frameworks** (clarity, QA, consistency) to SaaS scenarios.  
 
-I'm open to remote support roles and growing into a long-term position where I can help users, contribute to the team, and continue leveling up.
+📌 This project is a **preview** from my ClarityFlow Mastery course and Instructional Design Companion Bible.  
+It’s not the full course — only selected examples are shown here as portfolio pieces.
+
+
+💼 Portfolio Context  
+This simulation demonstrates my ability to design **instructional workflows** around SaaS support scenarios.  
+More simulations and structured modules will be published soon as part of my ClarityFlow Mastery course.
+
+
+
+
 
 📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/marc-maisonneuve-6345b6373/)
 
